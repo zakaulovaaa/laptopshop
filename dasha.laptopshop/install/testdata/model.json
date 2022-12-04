@@ -1,0 +1,44 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Acer Aspire",
+    "CODE": "acer_aspire",
+    "MANUFACTURER_ID": 1
+  },
+  {
+    "ID": 2,
+    "NAME": "Acer Extensa",
+    "CODE": "acer_extensa",
+    "MANUFACTURER_ID": 1
+  },
+  {
+    "ID": 3,
+    "NAME": "Acer Nitro",
+    "CODE": "acer_nitro",
+    "MANUFACTURER_ID": 1
+  },
+  {
+    "ID": 4,
+    "NAME": "Macbook Air",
+    "CODE": "macbook_air",
+    "MANUFACTURER_ID": 2
+  },
+  {
+    "ID": 5,
+    "NAME": "Macbook Pro",
+    "CODE": "macbook_pro",
+    "MANUFACTURER_ID": 2
+  },
+  {
+    "ID": 6,
+    "NAME": "ASUS VivoBook",
+    "CODE": "asus_vivobook",
+    "MANUFACTURER_ID": 3
+  },
+  {
+    "ID": 7,
+    "NAME": "Dell Inspiron",
+    "CODE": "dell_inspiron",
+    "MANUFACTURER_ID": 4
+  }
+]

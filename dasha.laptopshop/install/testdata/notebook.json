@@ -1,0 +1,90 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Ноутбук Acer Aspire 3 A315-34 (NX.HE3ER.026)\n",
+    "CODE": "noutbook-acer-aspire-3-a315-34-nx-he3er-026",
+    "MODEL_ID": 1,
+    "YEAR": 2020,
+    "PRICE": 36999
+  },
+  {
+    "ID": 2,
+    "NAME": "Ноутбук Acer Aspire 5 A515-45 (NX.A85ER.00Y)",
+    "CODE": "noutbook-acer-aspire-5-a515-45-nx-a85er-00y",
+    "MODEL_ID": 1,
+    "YEAR": 2022,
+    "PRICE": 59990
+  },
+  {
+    "ID": 3,
+    "NAME": "Ноутбук Acer Aspire 5 A514-54-501Z 11 Home Safari Gold",
+    "CODE": "noutbuk-acer-aspire-5-a514-54-501z-11-home-safari-gold",
+    "MODEL_ID": 1,
+    "YEAR": 2020,
+    "PRICE": 49999
+  },
+  {
+    "ID": 4,
+    "NAME": "Ноутбук Acer Extensa EX215-32-C4FB (NX.EGNER.00A)",
+    "CODE": "noutbook-acer-extensa-ex215-32-c4fb-nx-egner-00a",
+    "MODEL_ID": 2,
+    "YEAR": 2019,
+    "PRICE": 29999
+  },
+  {
+    "ID": 5,
+    "NAME": "Ноутбук Acer Nitro 5 AN515-45 (NH.QBCER.005)",
+    "CODE": "noutbook-acer-nitro-5-an515-45-nh-qbcer-005",
+    "MODEL_ID": 3,
+    "YEAR": 2022,
+    "PRICE": 139990
+  },
+  {
+    "ID": 6,
+    "NAME": "Apple MacBook Air 13\" (M2, 8C CPU/10C GPU, 2022), 8 ГБ, 512 ГБ SSD, «серый космос»",
+    "CODE": "macair_m2_8_512_white_2022",
+    "MODEL_ID": 4,
+    "YEAR": 2022,
+    "PRICE": 139990
+  },
+  {
+    "ID": 7,
+    "NAME": "Apple MacBook Air 13\" (M2, 8C CPU/10C GPU, 2022), 8 ГБ, 512 ГБ SSD, «полуночный черный»",
+    "CODE": "macair_m2_8_512_black_2022",
+    "MODEL_ID": 4,
+    "YEAR": 2021,
+    "PRICE": 119990
+  },
+  {
+    "ID": 8,
+    "NAME": "Apple MacBook Pro 13\" (M2, 8C CPU/10C GPU, 2022), 8 ГБ, 256 ГБ SSD, серебристый",
+    "CODE": "macpro_m2_8_256_white_2022",
+    "MODEL_ID": 5,
+    "YEAR": 2020,
+    "PRICE": 119990
+  },
+  {
+    "ID": 9,
+    "NAME": "Apple MacBook Pro 14\" (M1 Pro 8C CPU, 14C GPU, 2021) 16 ГБ, 512 ГБ SSD, «серый космос»",
+    "CODE": "macpro_m2_16_512_white_2022",
+    "MODEL_ID": 5,
+    "YEAR": 2022,
+    "PRICE": 189990
+  },
+  {
+    "ID": 10,
+    "NAME": "Ноутбук ASUS VivoBook R410MA-212.BK128",
+    "CODE": "noutbook-asus-r410ma-n4020-4gb-128gb",
+    "MODEL_ID": 6,
+    "YEAR": 2018,
+    "PRICE": 17999
+  },
+  {
+    "ID": 11,
+    "NAME": "Ноутбук Dell Inspiron 3180-7697",
+    "CODE": "noutbook-dell-inspiron-3180-7697",
+    "MODEL_ID": 7,
+    "YEAR": 2015,
+    "PRICE": 9450
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "NOTEBOOK_ID": 1,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 1,
+    "OPTION_ID": 7
+  },
+  {
+    "NOTEBOOK_ID": 1,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 1,
+    "OPTION_ID": 9
+  },
+  {
+    "NOTEBOOK_ID": 1,
+    "OPTION_ID": 13
+  },
+  {
+    "NOTEBOOK_ID": 2,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 2,
+    "OPTION_ID": 13
+  },
+  {
+    "NOTEBOOK_ID": 2,
+    "OPTION_ID": 12
+  },
+  {
+    "NOTEBOOK_ID": 3,
+    "OPTION_ID": 13
+  },
+  {
+    "NOTEBOOK_ID": 3,
+    "OPTION_ID": 12
+  },
+  {
+    "NOTEBOOK_ID": 3,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 3,
+    "OPTION_ID": 9
+  },
+  {
+    "NOTEBOOK_ID": 3,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 4,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 4,
+    "OPTION_ID": 9
+  },
+  {
+    "NOTEBOOK_ID": 4,
+    "OPTION_ID": 10
+  },
+  {
+    "NOTEBOOK_ID": 5,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 5,
+    "OPTION_ID": 7
+  },
+  {
+    "NOTEBOOK_ID": 5,
+    "OPTION_ID": 11
+  },
+  {
+    "NOTEBOOK_ID": 5,
+    "OPTION_ID": 12
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 2
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 3
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 4
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 6
+  },
+  {
+    "NOTEBOOK_ID": 6,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 7,
+    "OPTION_ID": 2
+  },
+  {
+    "NOTEBOOK_ID": 7,
+    "OPTION_ID": 3
+  },
+  {
+    "NOTEBOOK_ID": 7,
+    "OPTION_ID": 5
+  },
+  {
+    "NOTEBOOK_ID": 7,
+    "OPTION_ID": 6
+  },
+  {
+    "NOTEBOOK_ID": 7,
+    "OPTION_ID": 7
+  },
+  {
+    "NOTEBOOK_ID": 8,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 8,
+    "OPTION_ID": 3
+  },
+  {
+    "NOTEBOOK_ID": 8,
+    "OPTION_ID": 4
+  },
+  {
+    "NOTEBOOK_ID": 8,
+    "OPTION_ID": 6
+  },
+  {
+    "NOTEBOOK_ID": 9,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 9,
+    "OPTION_ID": 2
+  },
+  {
+    "NOTEBOOK_ID": 9,
+    "OPTION_ID": 3
+  },
+  {
+    "NOTEBOOK_ID": 9,
+    "OPTION_ID": 5
+  },
+  {
+    "NOTEBOOK_ID": 9,
+    "OPTION_ID": 6
+  },
+  {
+    "NOTEBOOK_ID": 10,
+    "OPTION_ID": 13
+  },
+  {
+    "NOTEBOOK_ID": 10,
+    "OPTION_ID": 12
+  },
+  {
+    "NOTEBOOK_ID": 10,
+    "OPTION_ID": 11
+  },
+  {
+    "NOTEBOOK_ID": 10,
+    "OPTION_ID": 9
+  },
+  {
+    "NOTEBOOK_ID": 11,
+    "OPTION_ID": 8
+  },
+  {
+    "NOTEBOOK_ID": 11,
+    "OPTION_ID": 10
+  },
+  {
+    "NOTEBOOK_ID": 11,
+    "OPTION_ID": 13
+  },
+  {
+    "NOTEBOOK_ID": 11,
+    "OPTION_ID": 1
+  },
+  {
+    "NOTEBOOK_ID": 11,
+    "OPTION_ID": 9
+  }
+]
